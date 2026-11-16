@@ -1,6 +1,5 @@
 # Power BI Data Analytics Portfolio
 
-A collection of Power BI projects focused on data visualization, business performance analysis, and interactive dashboard development.
 
 These projects demonstrate practical skills in data exploration, KPI monitoring, DAX calculations, and transforming business data into understandable visualizations.
 
